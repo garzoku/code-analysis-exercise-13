@@ -19,16 +19,29 @@ function (firstName, lastName, age){
 }
 ```
 
-| Input | Output |
-| ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+| Input              | Output                                             |
+| ------------------ | -------------------------------------------------- |
+| Kurt, Garzone, 33  |  {firstName: "Kurt", lastName: "Garzone", age: 33} |
+|	                   |    age: 33                                         | 
+|	                   |    firstName: "Kurt"                               |
+|	                   |    lastName: "Garzone"                             |
+| John, Smith, 20    |  {firstName: "John", lastName: "Smith", age: 20}   | 
+|	                   |    age: 20                                         |
+|	                   |    firstName: "John"                               | 
+|	                   |    lastName: "Smith"                               |
+| Bubba, Gump, 45    |  {firstName: "Bubba", lastName: "Gump", age: 45}   |
+|	                   |    age: 45                                         |
+|	                   |    firstName: "Bubba"                              |
+|	                   |    lastName: "Gump"                                |
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>1). The function accepts 3 arguments: firstName, lastName, age.<br>
+2). The const variable called "person" is declared with 3 attributes.<br>
+3). The value of firstName is assigned to the attribute called firstName(Kurt), the value of lastName is assigned to the attribute called lastName(Garzone), the value of age is assigned to the attribute called age(33).<br>
+4). The function returns the object named "person"  including its saved attributes.<br>
+Summary: This function saves a person's first name, last name, and age to an object. It's an essential part of any "call to action" whereby the user is required to create an account.</td>
   </tr>
 </table>
 
