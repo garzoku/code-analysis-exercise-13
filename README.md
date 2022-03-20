@@ -21,12 +21,12 @@ function (firstName, lastName, age){
 
 | Input              | Output                                             |
 | ------------------ | -------------------------------------------------- |
-| Kurt, Garzone, 33  |```js                                               |
-|                    |  {firstName: "Kurt", lastName: "Garzone", age: 33} |
-|	                   |    age: 33                                         | 
-|	                   |    firstName: "Kurt"                               |
-|	                   |    lastName: "Garzone"                             |
-|                    |```                                                 |
+| Kurt, Garzone, 33  |```js                                                
+                        {firstName: "Kurt", lastName: "Garzone", age: 33} 
+ 	                        age: 33                                          
+ 	                        firstName: "Kurt"                               
+ 	                        lastName: "Garzone"                             
+                      ```                                                 |
 | John, Smith, 20    |```js                                               |
 |                    |  {firstName: "John", lastName: "Smith", age: 20}   | 
 |	                   |    age: 20                                         |
