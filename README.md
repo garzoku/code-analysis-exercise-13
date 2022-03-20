@@ -38,8 +38,8 @@ function (firstName, lastName, age){
   <tr>
     <th>What does this program do?</th>
     <td>1). The function accepts 3 arguments: firstName, lastName, age.<br>
-2). The const variable called "person" is declared with 3 attributes.<br>
-3). The value of firstName is assigned to the attribute called firstName(Kurt), the value of lastName is assigned to the attribute called lastName(Garzone), the value of age is assigned to the attribute called age(33).<br>
+2). The const variable called "person" is declared as an object with 3 attributes.<br>
+3). The value of firstName is assigned to the attribute called firstName, the value of lastName is assigned to the attribute called lastName, the value of age is assigned to the attribute called age.<br>
 4). The function returns the object named "person"  including its saved attributes.<br>
 Summary: This function saves a person's first name, last name, and age to an object. It's an essential part of any "call to action" whereby the user is required to create an account.</td>
   </tr>
