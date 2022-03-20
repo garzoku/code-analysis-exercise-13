@@ -21,18 +21,24 @@ function (firstName, lastName, age){
 
 | Input              | Output                                             |
 | ------------------ | -------------------------------------------------- |
-| Kurt, Garzone, 33  |  {firstName: "Kurt", lastName: "Garzone", age: 33} |
+| Kurt, Garzone, 33  |```js                                               |
+|                    |  {firstName: "Kurt", lastName: "Garzone", age: 33} |
 |	                   |    age: 33                                         | 
 |	                   |    firstName: "Kurt"                               |
 |	                   |    lastName: "Garzone"                             |
-| John, Smith, 20    |  {firstName: "John", lastName: "Smith", age: 20}   | 
+|                    |```                                                 |
+| John, Smith, 20    |```js                                               |
+|                    |  {firstName: "John", lastName: "Smith", age: 20}   | 
 |	                   |    age: 20                                         |
 |	                   |    firstName: "John"                               | 
 |	                   |    lastName: "Smith"                               |
-| Bubba, Gump, 45    |  {firstName: "Bubba", lastName: "Gump", age: 45}   |
+|                    |```                                                 |
+| Bubba, Gump, 45    |```js                                               |
+|                    |  {firstName: "Bubba", lastName: "Gump", age: 45}   |
 |	                   |    age: 45                                         |
 |	                   |    firstName: "Bubba"                              |
 |	                   |    lastName: "Gump"                                |
+|                    |```                                                 |
 
 <table>
   <tr>
